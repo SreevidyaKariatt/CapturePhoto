@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CapturePhoto</string>
+    <string name="label_take_photo">Take Photo</string>
+</resources>
