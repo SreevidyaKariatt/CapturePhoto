@@ -1,4 +1,4 @@
-package com.example.sreevidyak.capturephoto;
+package com.example.sreevidyak.capturephoto.helper;
 
 import android.content.Context;
 import android.os.Environment;
