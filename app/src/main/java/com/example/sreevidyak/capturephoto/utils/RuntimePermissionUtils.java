@@ -20,6 +20,8 @@ public class RuntimePermissionUtils {
     public interface PermissionKeys {
         int REQUEST_WRITE_EXTERNAL_STORAGE = 1234;
         int CAMERA = 1235;
+        int READ_SMS = 1236;
+        int RECEIVE_SMS = 1237;
 
     }
 
